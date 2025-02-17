@@ -18,5 +18,5 @@ Use SparkSQL to evaluate a database of real estate information by creating tempo
 ```
 https://drive.google.com
 ```
-2. Open home_sales.ipynb
+2. Open home_sales_colab.ipynb
 ```
